@@ -9,7 +9,7 @@ Este manual proporciona una guía detallada sobre cómo dominar el inspector de 
 ## Enlace de la Página
 
 Visita la página en vivo del proyecto en el siguiente enlace:  
-[https://jeanpooljp.github.io/manual-inspector/](https://jeanpooljp.github.io/manual-inspector/)
+[https://jeanpooljp.github.io/docusaurus/](https://jeanpooljp.github.io/docusaurus/)
 
 ## Funcionalidades
 
@@ -28,4 +28,4 @@ Visita la página en vivo del proyecto en el siguiente enlace:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/jeanpooljp/manual-inspector.git
+   git clone https://jeanpooljp.github.io/docusaurus.git
